@@ -11,7 +11,7 @@
     "test": "node_modules/.bin/mocha -u exports test/*"
   },
   "engines": {
-    "node": "<=6.9.1"
+    "node": ">=6.9.1"
   },
   "author": "Mark Headd <mheadd@gmail.com> (http://civic.io/)",
   "license": "BSD",
